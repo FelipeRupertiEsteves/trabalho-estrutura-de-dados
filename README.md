@@ -1,2 +1,3 @@
-# trabalho-estrutura-de-dados
-Diretório destinado ao trabalho de atividade prática da cadeira de estrutura de dados da faculdade de análise de sistemas - Uninter/Porto Alegre - RS - Brasil
+# Trabalho de estrutura de dados.
+Este diretório é destinado ao trabalho de atividade prática da matéria de estrutura de dados, realizado em março de 2022, na faculdade de análise de sistemas da Uninter, polo zona norte de Porto Alegre - RS - Brasil
+
